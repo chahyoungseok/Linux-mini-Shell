@@ -15,21 +15,12 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#프로젝트-소개">프로젝트 소개</a>
-      <ul>
-        <li><a href="#환경-설정">환경 설정</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#1.-구현한-명령어-목록">구현한 명령어 목록</a>
+      <a href="#1. 구현한 명령어 목록">구현한 명령어 목록</a>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-     <li><a href="https://www.youtube.com/watch?v=eYo_AbOF7cA">Youtube Link</a></li>
   </ol>
 </details>
 
