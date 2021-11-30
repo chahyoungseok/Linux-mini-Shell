@@ -21,7 +21,7 @@
       </ul>
     </li>
     <li>
-      <a href="#구현한-명령어-목록">구현한 명령어 목록</a>
+      <a href="#1.-구현한-명령어-목록">구현한 명령어 목록</a>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
