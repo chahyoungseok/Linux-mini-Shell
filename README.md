@@ -51,7 +51,7 @@
 ![image](https://user-images.githubusercontent.com/29851990/143995893-37421e93-0a65-42d2-bc14-96b1bd715c91.png)<br>
 문자열의 첫 번째 문자를 없애는 함수입니다.<br>
 ![image](https://user-images.githubusercontent.com/29851990/143996448-ae838604-5960-48cc-95a0-54f6a134a64f.png)<br>
-명령어 하나당 프로세스 생성 및 wait를 하는 코드입니다.
+명령어 하나당 프로세스 생성 및 wait를 하는 코드입니다.<br>
 exec 계열의 execv를 사용하였고, argv는 strtok를 활용하였습니다.<br>
 ![image](https://user-images.githubusercontent.com/29851990/143996481-b7f2c87c-60a4-4290-aa63-98acac4d65c9.png)<br>
 아스키코드를 활용하여 “1000    ” 형태에서 빈공간을 때어냅니다.
