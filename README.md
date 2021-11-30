@@ -68,5 +68,49 @@ exec 계열의 execv를 사용하였고, argv는 strtok를 활용하였습니다
  ![image](https://user-images.githubusercontent.com/29851990/143997016-b23cac7f-b9cd-41ab-9be7-74621408b15d.png)
  ![image](https://user-images.githubusercontent.com/29851990/143997226-69dda4fc-0447-4db5-9119-0c951c5745a4.png)
  ![image](https://user-images.githubusercontent.com/29851990/143997258-db491e73-ee50-44f7-bb2b-aa0b24d8a2d1.png)
- ![image](https://user-images.githubusercontent.com/29851990/143997278-69e21b10-090c-4d0d-a353-e7977127094d.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997278-69e21b10-090c-4d0d-a353-e7977127094d.png)<br>
+ - pwd (현재 working 디렉토리 출력)<br>
+ ![image](https://user-images.githubusercontent.com/29851990/143997343-338889ff-5f59-4416-b3bb-4b5f8da9e13e.png)<br>
+ - mkdir (디렉토리 생성)<br>
+ ![image](https://user-images.githubusercontent.com/29851990/143997386-fa0f4881-d74d-4da6-9278-df1452c49bed.png)<br>
+ - cd (working 디렉토리 변경)<br>
+ ![image](https://user-images.githubusercontent.com/29851990/143997415-d6e0df29-c6fc-4455-b4a4-03c42b9b114e.png)<br>
+ - ps (실행중인 process를 출력)<br>
+ ![image](https://user-images.githubusercontent.com/29851990/143997447-8ee75015-2fc2-47eb-b6ac-6978cd35f34b.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997473-fe5b5f10-196a-4fd1-b8fb-2dbb8bcd7915.png)<br>
+ - cp (파일 복사)<br>
+ ![image](https://user-images.githubusercontent.com/29851990/143997504-b5fb1c8c-bcd4-43a1-bda7-47ca7e4f8fd5.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997514-85306f63-cfc8-46d2-9f83-28b0de9c8873.png)<br>
+ - history 및 ![number] (과거 사용된 명령어를 출력 및 재실행)<br>
+ ![image](https://user-images.githubusercontent.com/29851990/143997532-17469e8f-67b8-4c2b-8848-85ce26caf593.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997538-68357167-0f58-43df-bdb9-f43946de311a.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997544-b4dd391f-d14b-4620-8893-f86d5c8d4233.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997551-94f7c257-a7eb-41e8-ab7d-7992aa2b8564.png)<br>
+ - stat (파일의 status 출력)<br>
+ ![image](https://user-images.githubusercontent.com/29851990/143997588-c19715ed-2fac-4bb6-9bb8-d1353b043dc6.png)<br>
+ - chmod (파일의 permission을 변경)<br>
+ ![image](https://user-images.githubusercontent.com/29851990/143997627-4efdb49d-cba6-4a41-8921-8e06ea944dac.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997636-8344656a-1175-402b-85e0-55f35a25dfb0.png)<br>
+ - exit / C^ (Shell 종료)<br>
+ ![image](https://user-images.githubusercontent.com/29851990/143997658-fdcc4c11-805c-496c-be7d-82a401e56f14.png)<br>
+ - rm (파일 및 폴더 삭제 / 폴더안에 무언가 들어가있다면 삭제안됨)<br>
+ ![image](https://user-images.githubusercontent.com/29851990/143997693-6fa5009c-448b-477c-ab60-0976f8aa9ffe.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997725-ae896fdd-f9c5-4210-846f-4bc651724189.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997733-aa0ea423-ba12-4707-995e-97e3ed104a57.png)<br>
+ - alias (명령어를 alias)<br>
+ ![image](https://user-images.githubusercontent.com/29851990/143997756-e6aead4c-7cc0-42c2-b25b-773e00749dfe.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997761-831fe3f9-c17d-492a-acd9-c4e5f6469990.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997772-56f00339-55b0-4652-881b-ef379242354d.png)<br>
+ - lns (심볼릭링크)<br>
+ ![image](https://user-images.githubusercontent.com/29851990/143997808-5222ad37-42b7-4b10-a84c-9814e881f30a.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997821-e5f19f7d-75fc-49ec-b38e-3a6eb185c7c9.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997828-3ebb4e57-fda9-443a-861a-2174d8348571.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997835-6a20f12e-1d6e-44de-a0e8-4d440ff363ac.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997842-7fc270eb-56ab-4c0d-95e5-d566f4da7a59.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997844-55d4199b-b1ee-4103-a5e2-74f994178b12.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997847-b7ca6eb1-c1e3-4245-9f1a-950bc4cbe8d4.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997854-3f274688-a37e-417f-b2e6-aefaf93fa31c.png)<br>
+ - ln (하드링크)<br>
+ ![image](https://user-images.githubusercontent.com/29851990/143997888-5f9fa114-aea4-45ea-bff2-d48ce3922a79.png)
 
+ 
