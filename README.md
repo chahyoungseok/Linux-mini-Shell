@@ -48,5 +48,5 @@
  - exit - exit / C^ 
 
 ## 3. 주요 코드에 대한 코드 분석
-![image](https://user-images.githubusercontent.com/29851990/143995893-37421e93-0a65-42d2-bc14-96b1bd715c91.png)
+![image](https://user-images.githubusercontent.com/29851990/143995893-37421e93-0a65-42d2-bc14-96b1bd715c91.png)<br>
 문자열의 첫 번째 문자를 없애는 함수입니다.
