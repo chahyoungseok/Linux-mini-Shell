@@ -22,7 +22,8 @@
  - ps
  - cp
  - rm
- - ln
+ - ln (hardlink)
+ - lns (symlink)
  - stat
  - chmod
  - alias
