@@ -1,5 +1,5 @@
 # Linux-mini-Shell
-### 제4회 KETI 모비우스 개발자 대회 출품작 (해안가 사고 예방 IOT)
+### Unbuntu Linux 안에서의 mini Shell 구현
 
 <p align="center">
 <img src="https://img.shields.io/badge/license-mit-green">
