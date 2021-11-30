@@ -60,5 +60,5 @@ exec 계열의 execv를 사용하였고, argv는 strtok를 활용하였습니다
 문자열과 숫자 n을 인자로 전달하면 문자열의 n번째까지 삭제시킵니다.<br><br>
 
 ## 4. 테스트 결과 내용 표시
- - start (mini shell 시작 명령어)
+ - start (mini shell 시작 명령어)<br>
  ![image](https://user-images.githubusercontent.com/29851990/143996770-00a7660e-3672-4d2b-9a92-d9dfc894f17b.png)
