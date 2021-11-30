@@ -61,7 +61,9 @@ exec 계열의 execv를 사용하였고, argv는 strtok를 활용하였습니다
 
 ## 4. 테스트 결과 내용 표시
  - start (mini shell 시작 명령어)<br>
- ![image](https://user-images.githubusercontent.com/29851990/143996770-00a7660e-3672-4d2b-9a92-d9dfc894f17b.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143996770-00a7660e-3672-4d2b-9a92-d9dfc894f17b.png)<br>
  - ls (현재 디렉토리에 있는 파일 이름을 출력)<br>
- ![image](https://user-images.githubusercontent.com/29851990/143996946-2242edbc-5e34-49ab-ba31-686abfefdb36.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143996946-2242edbc-5e34-49ab-ba31-686abfefdb36.png)<br>
+ - cat (다수의 파일을 화면에 출력)<br>
+ ![image](https://user-images.githubusercontent.com/29851990/143997016-b23cac7f-b9cd-41ab-9be7-74621408b15d.png<br>
 
