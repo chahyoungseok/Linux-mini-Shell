@@ -10,17 +10,6 @@
 <br>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="# 1.-구현한-명령어-목록">구현한 명령어 목록</a></li>
-    <li><a href="# 2. 구현한 명령어에 대한 설명 및 사용예제">구현한 명령어에 대한 설명 및 사용예제</a></li>
-    <li><a href="# 3. 주요 코드에 대한 코드 분석">주요 코드에 대한 코드 분석</a></li>
-    <li><a href="# 4. 테스트 결과 내용 표시">테스트 결과 내용 표시</a></li>
-  </ol>
-</details>
-
 ## 1. 구현한 명령어 목록
 > Unbuntu Linux안에서 지원하는 실제 기능들을 구현
  - cat
