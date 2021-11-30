@@ -98,7 +98,7 @@ exec 계열의 execv를 사용하였고, argv는 strtok를 활용하였습니다
  ![image](https://user-images.githubusercontent.com/29851990/143997725-ae896fdd-f9c5-4210-846f-4bc651724189.png)
  ![image](https://user-images.githubusercontent.com/29851990/143997733-aa0ea423-ba12-4707-995e-97e3ed104a57.png)<br>
  - alias (명령어를 alias)<br>
- ![image](https://user-images.githubusercontent.com/29851990/143997756-e6aead4c-7cc0-42c2-b25b-773e00749dfe.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997756-e6aead4c-7cc0-42c2-b25b-773e00749dfe.png)<br>
  ![image](https://user-images.githubusercontent.com/29851990/143997761-831fe3f9-c17d-492a-acd9-c4e5f6469990.png)
  ![image](https://user-images.githubusercontent.com/29851990/143997772-56f00339-55b0-4652-881b-ef379242354d.png)<br>
  - lns (심볼릭링크)<br>
