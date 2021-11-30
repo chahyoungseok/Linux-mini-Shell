@@ -61,4 +61,4 @@ exec 계열의 execv를 사용하였고, argv는 strtok를 활용하였습니다
 
 ## 4. 테스트 결과 내용 표시
  - start (mini shell 시작 명령어)
- - ![image](https://user-images.githubusercontent.com/29851990/143996770-00a7660e-3672-4d2b-9a92-d9dfc894f17b.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143996770-00a7660e-3672-4d2b-9a92-d9dfc894f17b.png)
