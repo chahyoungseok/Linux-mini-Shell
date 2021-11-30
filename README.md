@@ -65,5 +65,8 @@ exec 계열의 execv를 사용하였고, argv는 strtok를 활용하였습니다
  - ls (현재 디렉토리에 있는 파일 이름을 출력)<br>
  ![image](https://user-images.githubusercontent.com/29851990/143996946-2242edbc-5e34-49ab-ba31-686abfefdb36.png)<br>
  - cat (다수의 파일을 화면에 출력)<br>
- ![image](https://user-images.githubusercontent.com/29851990/143997016-b23cac7f-b9cd-41ab-9be7-74621408b15d.png)<br>
+ ![image](https://user-images.githubusercontent.com/29851990/143997016-b23cac7f-b9cd-41ab-9be7-74621408b15d.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997226-69dda4fc-0447-4db5-9119-0c951c5745a4.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997258-db491e73-ee50-44f7-bb2b-aa0b24d8a2d1.png)
+ ![image](https://user-images.githubusercontent.com/29851990/143997278-69e21b10-090c-4d0d-a353-e7977127094d.png)
 
