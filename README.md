@@ -46,3 +46,7 @@
  - chmod - ./chmod[파일 및 폴더명]
  - alias - alias / alias 단축=“내용” / 단축 -> 내용 (Shell이 실행될 때 초기화)
  - exit - exit / C^ 
+
+## 3. 주요 코드에 대한 코드 분석
+![image](https://user-images.githubusercontent.com/29851990/143995893-37421e93-0a65-42d2-bc14-96b1bd715c91.png)
+문자열의 첫 번째 문자를 없애는 함수입니다.
