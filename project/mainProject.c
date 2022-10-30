@@ -207,7 +207,7 @@ int main(){
 		}
 		else if(strcmp(inCommand, "help") == 0){
 			printf("available commands : ");
-
+			continue;
 		}
 
 		pid = fork();
