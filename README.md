@@ -173,15 +173,51 @@ void removeChar(char *buf, int start){
  ![image](https://user-images.githubusercontent.com/29851990/143997761-831fe3f9-c17d-492a-acd9-c4e5f6469990.png)
  ![image](https://user-images.githubusercontent.com/29851990/143997772-56f00339-55b0-4652-881b-ef379242354d.png)<br>
  ### lns (심볼릭링크)<br>
- ![image](https://user-images.githubusercontent.com/29851990/143997808-5222ad37-42b7-4b10-a84c-9814e881f30a.png)
- ![image](https://user-images.githubusercontent.com/29851990/143997821-e5f19f7d-75fc-49ec-b38e-3a6eb185c7c9.png)
- ![image](https://user-images.githubusercontent.com/29851990/143997828-3ebb4e57-fda9-443a-861a-2174d8348571.png)
- ![image](https://user-images.githubusercontent.com/29851990/143997835-6a20f12e-1d6e-44de-a0e8-4d440ff363ac.png)
- ![image](https://user-images.githubusercontent.com/29851990/143997842-7fc270eb-56ab-4c0d-95e5-d566f4da7a59.png)
- ![image](https://user-images.githubusercontent.com/29851990/143997844-55d4199b-b1ee-4103-a5e2-74f994178b12.png)
- ![image](https://user-images.githubusercontent.com/29851990/143997847-b7ca6eb1-c1e3-4245-9f1a-950bc4cbe8d4.png)
- ![image](https://user-images.githubusercontent.com/29851990/143997854-3f274688-a37e-417f-b2e6-aefaf93fa31c.png)<br>
+ 
+ #### 실험1
+ 
+ ![image](https://user-images.githubusercontent.com/29851990/143997808-5222ad37-42b7-4b10-a84c-9814e881f30a.png)<br>
+ 여기 test라는 폴더 안에 rrr이라는 파일이 있습니다.
+ 
+ <br>
+ 
+ ![image](https://user-images.githubusercontent.com/29851990/143997828-3ebb4e57-fda9-443a-861a-2174d8348571.png)<br>
+ ./ln test testFolder 명령어를 사용합니다.
+ 
+ <br>
+ 
+ ![image](https://user-images.githubusercontent.com/29851990/143997842-7fc270eb-56ab-4c0d-95e5-d566f4da7a59.png)<br>
+ testFolder 라는 폴더 안에는 rrr이라는 파일이 보입니다.
+ 
+ <br><br>
+ 
+ #### 실험2
+ 
+ ![image](https://user-images.githubusercontent.com/29851990/143997821-e5f19f7d-75fc-49ec-b38e-3a6eb185c7c9.png)<br>
+ 여기 Intest라는 파일이 있습니다. 해당 파일의 내용은 위와 같습니다.
+ 
+ <br>
+ 
+ ![image](https://user-images.githubusercontent.com/29851990/143997835-6a20f12e-1d6e-44de-a0e8-4d440ff363ac.png)<br>
+ ./ln lnTest testFile 명령어를 사용합니다.
+ 
+ <br>
+ 
+ ![image](https://user-images.githubusercontent.com/29851990/143997844-55d4199b-b1ee-4103-a5e2-74f994178b12.png)<br>
+ testFile에서도 Intest의 결과가 복사된 것처럼 보입니다.
+ 
+ <br><br>
+ 
+ #### 결과
+ 
+ ![image](https://user-images.githubusercontent.com/29851990/143997847-b7ca6eb1-c1e3-4245-9f1a-950bc4cbe8d4.png)<br>
+ 위의 두가지의 실험은 마치 파일이나 폴더가 하나 더 생긴 것처럼 보입니다.<br>
+ 그럼 Intest 파일과 test 폴더를 지우면 어떻게 될까요?<br>
+ 결과는 보이시는 것과 같이 testFile과 testFolder도 찾을 수 없이 없어집니다.<br>
+ 심볼릭 링크의 특징을 이해해볼 수 있습니다.
+ 
  ### ln (하드링크)<br>
- ![image](https://user-images.githubusercontent.com/29851990/143997888-5f9fa114-aea4-45ea-bff2-d48ce3922a79.png)
-
+ ![image](https://user-images.githubusercontent.com/29851990/143997888-5f9fa114-aea4-45ea-bff2-d48ce3922a79.png)<br>
+ 위의 심볼릭 링크와는 다르게 하드링크 명령어를 사용한 장면입니다.<br>
+ 원본이 삭제되더라도 지워지지않습니다.
  
